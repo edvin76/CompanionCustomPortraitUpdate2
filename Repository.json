@@ -1,6 +1,10 @@
 {
-	"Releases":
-	[
-		{"Id": "CompanionCustomPortrait", "Version": "3.0.1"}
-	]
-}
+    "Releases":
+    [
+        {
+            "Id": "CompanionCustomPortrait", 
+            "DownloadUrl": "https://github.com/edvin76/CompanionCustomPortrait/raw/master/CompanionCustomPortrait.zip",
+            "Version": "1.0.7" 
+        } 
+    ] 
+} 
